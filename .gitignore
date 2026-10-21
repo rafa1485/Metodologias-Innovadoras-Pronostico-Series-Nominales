@@ -1,1 +1,7 @@
 .Env
+muestras_descartadas.xlsx
+muestras_entrenamiento.xlsx
+outputs_entrenamiento.xlsx
+comparacion_errores_T_periodos.png
+comparacion_pronosticos_T_periodos.png
+
