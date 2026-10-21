@@ -5,3 +5,7 @@ outputs_entrenamiento.xlsx
 comparacion_errores_T_periodos.png
 comparacion_pronosticos_T_periodos.png
 
+.venv/
+__pycache__/
+.pytest_cache/
+resultados/
